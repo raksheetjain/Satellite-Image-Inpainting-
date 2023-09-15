@@ -1,4 +1,4 @@
-# Cloud and Fog Removal from Satellite Images using GANs
+#  Satellite Images inpainting using GANs
 
 This repository contains code and resources for a research project focused on satellite images inpainting using Generative Adversarial Networks (GANs).  
 ## Introduction
